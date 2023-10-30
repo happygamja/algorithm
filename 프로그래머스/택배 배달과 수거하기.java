@@ -62,7 +62,7 @@ class Solution {
         return answer;
     }
     
-    public class Pair{
+    public class Pair{ 
         int d;
         int c;
         public Pair(int d, int c){
